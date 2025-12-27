@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Model
+*.h5
+*.keras
+
+# Upload & result images
+uploads/
+results/
+
+# OS files
+.DS_Store
+Thumbs.db
