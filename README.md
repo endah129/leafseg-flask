@@ -68,11 +68,7 @@ flask_backend/
 
 ## ⚙️ Cara Menjalankan Aplikasi
 
-1️⃣ Clone Repository
-'''bash
-git clone https://github.com/USERNAME/leafseg.git
-cd flask_backend
-'''
+1️⃣ Clone Repository "https://github.com/endah129/leafseg-flask.git"
 
 2️⃣ Buat Virtual Environment
 python -m venv venv
